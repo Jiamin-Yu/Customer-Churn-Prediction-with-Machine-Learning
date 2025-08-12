@@ -7,4 +7,4 @@ Size: 7043 instances, 21 features
 
 Classification model packages: DecisionTreeClassifier, RandomForestClassifier, XGBClassifier
 
-Workflow: data cleaning - explorative data analysis - data preprocessing (label encoding) - model training - model evaluation
+Workflow: Data Cleaning - Explorative Data Analysis - Data Preprocessing (label encoding) - Model Training - Model Evaluation
